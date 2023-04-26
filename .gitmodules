@@ -1,0 +1,3 @@
+[submodule "wsms_ui"]
+	path = wsms_ui
+	url = ./wsms_ui
